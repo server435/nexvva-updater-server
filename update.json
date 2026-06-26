@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Bug fixes and backend performance improvements.",
+  "pub_date": "2026-06-27T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "YOUR_SIGNATURE_HERE",
+      "url": "https://github.com/server435/nexvva-updater-server/releases/download/v1.0.0/Nexvva_1.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
