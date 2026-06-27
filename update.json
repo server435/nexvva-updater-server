@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkxkMzdXOEUvRFN6RitXaFRKNW1xZk1za3g5Y2FhcFNwZ0VpejFxMWNORHkxL2wxSGg0QmNwOXFIK2FzaGFvVWtjeFpwdFVZYzY3MjNkdm1YenlOajdPOXowUm1JSVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTgxODQ2CWZpbGU6TmV4dnZhXzEuMC4xX3g2NF9lbi1VUy5tc2kKbTlGcWQ3TTBOVzNROTVzRXpNcGljamNNOWc2NlphdGRPbllTamFUY3A0TzJxM250WW91VHpVRFdSaTE3R2VNK01GbGtLbGE0KzZEWnlmMmJlK0tHQ2c9PQo=",
-      "url": "https://github.com/server435/nexvva-updater-server/releases/download/v1.0.1/Nexvva_1.0.1_x64_en-US.msi"
+      "url": "https://github.com/server435/nexvva-updater-server/releases/download/1.0.1/Nexvva_1.0.1_x64_en-US.msi"
     }
   }
 }
