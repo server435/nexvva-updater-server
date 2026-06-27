@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1", 
+  "version": "1.0.0", 
   "notes": "bug fixed",
   "pub_date": "2026-06-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkxkMzdXOEUvRFRCWkJFNnorNVRtbUF1TTYwdU85N29qU3RZQXMvZHU0VzZKSHFNQVYrSHhoVU1UUUs1RkQzcldpRGcyYy91Z0JYazN5UGhETnloeGUydVVRbVpySVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTExNzg0CWZpbGU6TmV4dnZhXzEuMC4xX3g2NF9lbi1VUy5tc2kKUUpuVTZFeHI1VXY5bVM2ZitGSnF6VVBnWnFxbGtVWU1qZnlhbGJ2YVgwbXh1TVcrcUdrUTNQK1FYa0sxT0VrKzZmbEFjSjlFL3NqNTZUU1E1cW1hQnc9PQo=",
-      "url": "https://github.com/server435/nexvva-updater-server/releases/download/v1.0.1/Nexvva_1.0.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkxkMzdXOEUvRGNncEJTVmMzNGhOeFB5Vk01emVQcm05ZDNCSnJvRGJzMkFaRHV6K0Rra3I4cGZOOHBCT0JYV1htZjZIVndtVGFtREZzMW16bElBU095RUpVQW5IY3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTgxMjQ4CWZpbGU6TmV4dnZhXzEuMC4wX3g2NF9lbi1VUy5tc2kKeG9lUmY1aENteXRlRlJpRDB1MGJTZllJNFFHUWFuc2RFbjFtMG0vZjdGS0tDaklzV1Rqek8rQUIxb2s3RWRPTGJQNjBoWHZ3Skc1aTR0NzNLZlFQQ1E9PQo=",
+      "url": "https://github.com/server435/nexvva-updater-server/releases/download/v1.0.1/Nexvva_1.0.0_x64_en-US.msi"
     }
   }
 }
