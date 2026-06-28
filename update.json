@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0", 
-  "notes": "bug finding",
+  "version": "1.0.1", 
+  "notes": "scanner update",
   "pub_date": "2026-06-27T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/server435/nexvva-updater-server/releases/download/1.0.0/Nexvva_1.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZkxkMzdXOEUvRFJzL0g0K21TTCtNNjg4ODNJQkUyU1hoNEhxRnBmZ0N0Z3ZWaExzZ0FDUjRqK1BMYXBYd2hybTdMRC81OWxBelZOSmN0RjBUQm1adExZQVRYbS9wSkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjY5ODcwCWZpbGU6TmV4dnZhXzEuMC4xX3g2NF9lbi1VUy5tc2kKK3duNjR3WmV5bGFXendRMTIwTnlKYTJhL1M4emZDQ0RFUjhwb2wxdWlSbkFvTnJ5ZUQxQys3SkF4bTN1ZU4yalErVERZWnYvTTFaVnhDYVNpYjh0REE9PQo=",
+      "url": "https://github.com/server435/nexvva-updater-server/releases/download/1.0.1/Nexvva_1.0.1_x64_en-US.msi"
     }
   }
 }
